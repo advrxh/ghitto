@@ -14,3 +14,4 @@ $5 Commit! And wait for pages to reflect changes.
 $6 Repeat steps $4 and $5 to add new redirects.
 
 ```
+# to
